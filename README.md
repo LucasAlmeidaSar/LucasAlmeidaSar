@@ -1,4 +1,4 @@
-<h1>Olá, mundo! Sou o Lucas de Almeida Sarmento, seja bem-vindo(a)!</h1>
+<h1>Olá, sou o Lucas de Almeida Sarmento, seja bem-vindo(a)!</h1>
 
 - 🎯 Estudando ciência de dados.
 - 📚 Maior proficiência em desenvolvimento WEB.
