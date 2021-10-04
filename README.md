@@ -12,19 +12,19 @@
 
 <h2>Habilidades:</h2>
 <div>
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">  
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">  
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">      
-  <img align:"center" height:"30" width="40" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">  
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">  
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">  
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">      
+  <img align:"center" height:"30" width="40" style="margin-right: 10px" alt="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">  
   
   
 </div>
