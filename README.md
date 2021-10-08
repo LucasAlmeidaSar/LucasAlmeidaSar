@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/LucasAlmeidaSar">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucasalmeidasar&hide=issues&show_icons=true&theme=radical&count_private=true&custom_title=Estat%C3%ADsticas%20da%20minha%20conta."/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeidasar&layout=compact&theme=radical&custom_title=Tecnologias%20mais%20utilizadas."/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucasalmeidasar&hide=issues&show_icons=true&theme=radical&count_private=true&custom_title=Estat%C3%ADsticas%20da%20minha%20conta."/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeidasar&layout=compact&theme=radical&custom_title=Tecnologias%20mais%20utilizadas."/>
   </a>
 </div>
 
