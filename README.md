@@ -3,13 +3,11 @@
 - 🎯 Estudando ciência de dados.
 - 📚 Maior proficiência em desenvolvimento WEB.
 
-<div style="display: flex;">  
-  <div style="display: inline-flex; height: 180em;">
-   <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=lucasalmeidasar&hide=issues&show_icons=true&theme=radical&count_private=true&custom_title=Estat%C3%ADsticas%20da%20minha%20conta."/>
-  </div>
-  <div style="display: inline-flex; height: 180em;">
-    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeidasar&layout=compact&theme=radical&hide=vue,html&custom_title=Tecnologias%20mais%20utilizadas."/>  
-  </div>
+<div>
+  <a style="display:block;" href="https://github.com/LucasAlmeidaSar">
+  <img style="display:inline-block; height:180px;" src="https://github-readme-stats.vercel.app/api?username=lucasalmeidasar&hide=issues&show_icons=true&theme=radical&count_private=true&custom_title=Estat%C3%ADsticas%20da%20minha%20conta."/>
+  <img style="display:inline-block; height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeidasar&layout=compact&theme=radical&custom_title=Tecnologias%20mais%20utilizadas."/>
+  </a>
 </div>
 
 <h2>Habilidades:</h2>
